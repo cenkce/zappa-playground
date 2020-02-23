@@ -2,9 +2,8 @@
   "dev": {
     "aws_region": "eu-central-1",
     "django_settings": "ekop.settings",
-    "profile_name": "zappa",
     "project_name": "ekop",
-    "runtime": "python3.6",
+    "runtime": "python3.7",
     "s3_bucket": "cenkce-zappa-test",
     "role_name": "ZappaRole",
     "manage_roles": false,
